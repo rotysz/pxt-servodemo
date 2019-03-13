@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "Servo": "github:waveshare/pxt-servo#v1.0.0"
     },
     "files": [
         "README.md",
@@ -13,6 +14,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
